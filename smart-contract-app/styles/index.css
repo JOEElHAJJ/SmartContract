@@ -1,0 +1,108 @@
+@media(max-width:1000px){
+    .firstdiv{
+        display: flex;
+        padding-top: 15px;
+    }
+
+    .main h1{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 2em;
+        font-weight: bold;
+    }
+    .main{
+        background-position:center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .div2{
+        color:#29465B;
+        padding-left:55px;
+        width:480px;
+        padding-top:10px;
+        margin:40px;
+        font-family :Arial, Helvetica, sans-serif;
+    }
+
+    .buttondescription{
+        color:#29465B;
+        width:110px;
+    }
+
+    .description{
+        color:#737CA1;
+    }
+
+    .description{
+        color:#29465B;
+        padding-top:50px;
+        padding-left:200px;
+        margin-right: 40px;
+        font-family: Arial, Helvetica, sans-serif;
+        width:480px;
+    }
+
+    .h6{
+        font-family: serif;
+    }
+
+    .colbutton{
+        padding-left:40px;
+        padding-top:25px;
+    }
+}
+.firstdiv{
+    display: flex;
+    padding-top: 15px;
+}
+
+.main h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+.main{
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
+
+.div2{
+    color:#29465B;
+    padding-left:55px;
+    width:480px;
+    padding-top:10px;
+    margin:40px;
+    font-family :Arial, Helvetica, sans-serif;
+}
+
+.buttondescription{
+    color:#29465B;
+    width:110px;
+}
+
+.description{
+    color:#737CA1;
+}
+
+.description{
+    color:#29465B;
+    padding-top:50px;
+    padding-left:200px;
+    margin-right: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:480px;
+}
+
+.h6{
+    font-family: serif;
+}
+
+.colbutton{
+    padding-left:40px;
+    padding-top:25px;
+}
